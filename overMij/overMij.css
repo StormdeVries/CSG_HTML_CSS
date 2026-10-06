@@ -1,6 +1,42 @@
 body {
-    color: darkblue;
+    color: rgb(252, 252, 252);
     font-size: 4.5rem;
     font-family: 'Lucida Sans', 'Lucida Sans Regular',Geneva, Verdana, sans-serif;
     font-variant: small-caps;
+    background-image: url(../oefenen/images/strand.jpg);
+    background-size: cover;
+
+p {
+     font-size: 20px;
+    }
+h2 {
+    font-size: 30px;
+}
+ul {
+    font-size: 20px;
+}
+h1 {
+    font-size: 75px;
+}
+a {
+    color: color-mix(in srgb-linear, rgb(10, 228, 28) 50%, rgb(35, 0, 231) 50%);
+}
+img {
+    width: 580px;
+    height: auto; 
+}
+body {
+    background-color: rgb(26, 3, 3);
+}
+.highlight {
+    color:orange
+}
+.belangrijk {
+    color:green
+}
+li {
+    color:red; font-size: 20px
+}
+li {
+    color:blue
 }
